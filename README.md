@@ -39,6 +39,8 @@ will generate few files:
     create src/main/webapp/app/my-component/my-component.component.html
     create src/main/webapp/app/my-component/my-component.component.ts
     update src/main/webapp/app/app.module.ts
+    
+### Features
 
 [JHipster Homepage and latest documentation]: https://www.jhipster.tech
 [JHipster 5.1.0 archive]: https://www.jhipster.tech/documentation-archive/v5.1.0
